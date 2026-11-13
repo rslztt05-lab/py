@@ -1,0 +1,6 @@
+ner = input("Нэр: ")
+mergejil = input("Мэргэжил: ")
+gpa = float(input("Голч дүн: "))
+print("Нэр:", ner)
+print("Мэргэжил:", mergejil)
+print(f"Голч дүн: {gpa:.2f}")
